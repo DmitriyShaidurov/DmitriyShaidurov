@@ -20,10 +20,14 @@ Header
 [![Header](https://github.com/DmitriyShaidurov/DmitriyShaidurov/blob/main/assets/banner.jpg)](https://tlgg.ru/dimagraver)
 
 
-Я начинающий frontend-разработчик
+Всем привет! Я начинающий frontend-разработчик из России.
 
 Latest
 
 ### Languages and tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-cf9b0c?style=plastic&logo=JavaScript&logoColor=161921)
+![HTML](https://img.shields.io/badge/-HTML-cf9b0c?style=plastic&logo=html&logoColor=161921)
+![CSS](https://img.shields.io/badge/-CSS-cf9b0c?style=plastic&logo=css)
+![React](https://img.shields.io/badge/-React-cf9b0c?style=plastic&logo=react&logoColor=teel)
 
 ### Follow me
