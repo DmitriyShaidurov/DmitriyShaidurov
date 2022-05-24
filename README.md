@@ -2,7 +2,8 @@
 
 <img src="https://github.com/DmitriyShaidurov/DmitriyShaidurov/raw/main/assets/banner.jpg" width="700" height="160" />
 
-## Всем привет, меня зовут Дмитрий! Я начинающий frontend-разработчик из России.
+## Всем привет, меня зовут Дмитрий! 
+### Я начинающий frontend-разработчик из России.
 ### Моё резюме: https://hh.ru/resume/efa4e79eff09eda0a30039ed1f494d514a5847
 
 ### Languages and tools
