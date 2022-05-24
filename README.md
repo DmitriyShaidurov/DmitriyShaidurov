@@ -17,4 +17,4 @@
 [![Telegramm](https://img.shields.io/badge/-Telegramm-cf9b0c?style=for-the-badge&logo=telegram)](https://tlgg.ru/dimagraver)
 [![VK](https://img.shields.io/badge/-VK-cf9b0c?style=for-the-badge&logo=VK)](https://vk.com/graversh)
 [![instagram](https://img.shields.io/badge/-instagram-cf9b0c?style=for-the-badge&logo=instagram)](http://www.instagram.com/dimagraver)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-cf9b0c?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dmitriyshaidurov/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-cf9b0c?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/dmitriyshaidurov/)
