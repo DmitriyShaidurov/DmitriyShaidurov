@@ -2,8 +2,8 @@
 
 <img src="https://github.com/DmitriyShaidurov/DmitriyShaidurov/raw/main/assets/banner.jpg" width="750" height="150" />
 
-Всем привет! Я начинающий frontend-разработчик из России.
-https://hh.ru/resume/efa4e79eff09eda0a30039ed1f494d514a5847 - резюме
+### Всем привет! Я начинающий frontend-разработчик из России.
+### Моё резюме: https://hh.ru/resume/efa4e79eff09eda0a30039ed1f494d514a5847
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-cf9b0c?style=for-the-badge&logo=JavaScript&logoColor=161921)
