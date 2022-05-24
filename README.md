@@ -1,4 +1,6 @@
-[![Header](https://github.com/DmitriyShaidurov/DmitriyShaidurov/blob/main/assets/banner.jpg)](https://tlgg.ru/dimagraver)
+<!-- [![Header](https://github.com/DmitriyShaidurov/DmitriyShaidurov/blob/main/assets/banner.jpg)](https://tlgg.ru/dimagraver) -->
+
+<img src="https://github.com/DmitriyShaidurov/DmitriyShaidurov/raw/main/assets/banner.jpg" width="750" height="150" />
 
 Всем привет! Я начинающий frontend-разработчик из России.
 https://hh.ru/resume/efa4e79eff09eda0a30039ed1f494d514a5847 - резюме
