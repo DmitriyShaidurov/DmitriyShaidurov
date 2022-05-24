@@ -32,9 +32,11 @@ Latest
 ![Node.js](https://img.shields.io/badge/-Node.js-cf9b0c?style=for-the-badge&logo=Node.js&logoColor=161921)
 ![Webpack](https://img.shields.io/badge/-Webpack-cf9b0c?style=for-the-badge&logo=webpack&logoColor=161921)
 ![OOP](https://img.shields.io/badge/-OOP-cf9b0c?style=for-the-badge&logo=OOP)
+![figma](https://img.shields.io/badge/-figma-cf9b0c?style=for-the-badge&logo=figma)
 ![CSS](https://img.shields.io/badge/-CSS-cf9b0c?style=for-the-badge&logo=css)
 
 ### Follow me
 [![Telegramm](https://img.shields.io/badge/-Telegramm-cf9b0c?style=for-the-badge&logo=telegram)](https://tlgg.ru/dimagraver)
 [![VK](https://img.shields.io/badge/-VK-cf9b0c?style=for-the-badge&logo=VK)](https://vk.com/graversh)
 [![instagram](https://img.shields.io/badge/-instagram-cf9b0c?style=for-the-badge&logo=instagram)](http://www.instagram.com/dimagraver)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-cf9b0c?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dmitriyshaidurov/)
