@@ -19,4 +19,4 @@
 [![instagram](https://img.shields.io/badge/-instagram-cf9b0c?style=for-the-badge&logo=instagram)](http://www.instagram.com/dimagraver)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-cf9b0c?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/dmitriyshaidurov/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
