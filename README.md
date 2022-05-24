@@ -1,7 +1,7 @@
 [![Header](https://github.com/DmitriyShaidurov/DmitriyShaidurov/blob/main/assets/banner.jpg)](https://tlgg.ru/dimagraver)
 
 Всем привет! Я начинающий frontend-разработчик из России.
-https://hh.ru/resume/efa4e79eff09eda0a30039ed1f494d514a5847 - резюме
+[![Summary](https://img.shields.io/badge/-Summary-cf9b0c?style=for-the-badge&logo=Summary)](https://hh.ru/resume/efa4e79eff09eda0a30039ed1f494d514a5847)
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-cf9b0c?style=for-the-badge&logo=JavaScript&logoColor=161921)
