@@ -27,11 +27,12 @@ Latest
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-cf9b0c?style=for-the-badge&logo=JavaScript&logoColor=161921)
 ![HTML](https://img.shields.io/badge/-HTML-cf9b0c?style=for-the-badge&logo=html&logoColor=161921)
-![CSS](https://img.shields.io/badge/-CSS-cf9b0c?style=for-the-badge&logo=css)
 ![React](https://img.shields.io/badge/-React-cf9b0c?style=for-the-badge&logo=react&logoColor=teel)
 ![GitHub](https://img.shields.io/badge/-GitHub-cf9b0c?style=for-the-badge&logo=github&logoColor=161921)
 ![Node.js](https://img.shields.io/badge/-Node.js-cf9b0c?style=for-the-badge&logo=Node.js&logoColor=161921)
 ![Webpack](https://img.shields.io/badge/-Webpack-cf9b0c?style=for-the-badge&logo=webpack&logoColor=161921)
-
+![CSS](https://img.shields.io/badge/-CSS-cf9b0c?style=for-the-badge&logo=css)
 
 ### Follow me
+[![Telegramm](https://img.shields.io/badge/-Telegramm-cf9b0c?style=for-the-badge&logo=telegram)](https://tlgg.ru/dimagraver)
+[![VK](https://img.shields.io/badge/-VK-cf9b0c?style=for-the-badge&logo=VK)](https://vk.com/graversh)
