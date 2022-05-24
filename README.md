@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 Header 
-![https://github.com/DmitriyShaidurov/DmitriyShaidurov/blob/main/assets/banner.jpg](https://tlgg.ru/dimagraver)
+![https://github.com/DmitriyShaidurov/DmitriyShaidurov/blob/main/assets/banner.jpg?raw=true](https://tlgg.ru/dimagraver)
 
 
 Я начинающий frontend-разработчик
